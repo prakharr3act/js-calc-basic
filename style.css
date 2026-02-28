@@ -42,3 +42,15 @@ button {
     color: white;
 }
 
+button:hover {
+    background: #777;
+}
+
+.col-2 {
+    grid-column: span 2;
+    background: #ff9500;
+}
+
+.col-2:hover {
+    background: #ffaa33;
+}
