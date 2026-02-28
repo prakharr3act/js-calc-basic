@@ -33,9 +33,9 @@ This project demonstrates core web development concepts like DOM manipulation, e
 
 ---
 
-## 📖 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/basic-web-calculator.git
