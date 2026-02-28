@@ -4,3 +4,7 @@ function appendValue(input) {
     display.value += input;
 }
 
+function clearDisplay() {
+    display.value = "";
+}
+
