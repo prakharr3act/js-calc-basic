@@ -5,12 +5,12 @@ This project demonstrates core web development concepts like DOM manipulation, e
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ➕ **Basic Arithmetic** — Addition, subtraction, multiplication, and division  
-- 🧹 **Clear & Delete** — Clear the entire display or remove the last character  
-- 📱 **Responsive Layout** — CSS Grid-based design that adapts to different screen sizes  
-- ⚠️ **Error Handling** — Handles invalid mathematical expressions gracefully  
+-  **Basic Arithmetic** — Addition, subtraction, multiplication, and division  
+-  **Clear & Delete** — Clear the entire display or remove the last character  
+-  **Responsive Layout** — CSS Grid-based design that adapts to different screen sizes  
+- **Error Handling** — Handles invalid mathematical expressions gracefully  
 
 ---
 
