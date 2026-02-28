@@ -14,7 +14,7 @@ This project demonstrates core web development concepts like DOM manipulation, e
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** — Structure and button layout  
 - **CSS3** — Styling and responsive grid system  
@@ -22,7 +22,7 @@ This project demonstrates core web development concepts like DOM manipulation, e
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 📦 basic-web-calculator
