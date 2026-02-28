@@ -25,10 +25,10 @@ This project demonstrates core web development concepts like DOM manipulation, e
 ##  Project Structure
 
 ```
-📦 basic-web-calculator
- ┣ 📜 index.html   # UI structure
- ┣ 📜 style.css    # Styling and layout
- ┗ 📜 script.js    # Logic and calculations
+ basic-web-calculator
+ ┣  index.html   # UI structure
+ ┣  style.css    # Styling and layout
+ ┗  script.js    # Logic and calculations
 ```
 
 ---
