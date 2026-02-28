@@ -38,7 +38,7 @@ This project demonstrates core web development concepts like DOM manipulation, e
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/basic-web-calculator.git
+git clone https://github.com/prakharr3act/js-calc-basic.git
 ```
 
 ### 2️ Run the Project
