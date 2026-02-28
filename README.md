@@ -1,5 +1,4 @@
 # Basic Web Calculator
-# 🧮 Basic Web Calculator
 
 A clean and functional calculator built using **Vanilla JavaScript, HTML5, and CSS3**.  
 This project demonstrates core web development concepts like DOM manipulation, event handling, and basic functional programming — without using any external libraries.
