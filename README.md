@@ -41,19 +41,19 @@ This project demonstrates core web development concepts like DOM manipulation, e
 git clone https://github.com/your-username/basic-web-calculator.git
 ```
 
-### 2️⃣ Run the Project
+### 2️ Run the Project
 
 Simply open `index.html` in your browser.
 
 ---
 
-## ⚠️ Security Note
+##  Security Note
 
 This project uses JavaScript’s `eval()` function for simplicity in a learning environment.  
 For production-level applications, using a custom math parser is strongly recommended for better security.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 Built as a **fundamental Web Development practice project** to strengthen core front-end skills.
